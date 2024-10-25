@@ -1,0 +1,53 @@
+/* .logo{
+    Float : left;
+} */
+
+ #header
+ {
+  background-color: #a8b7df;
+  padding: 2px;
+ }
+ 
+ #idheader
+ {
+  text-align: center;
+ }
+  .logo 
+  {
+  background-color: rgb(12, 195, 227);
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+.places
+  {
+    background-color: rgb(7, 134, 166);
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+  }
+  .State
+  {
+    background-color: rgb(12, 195, 227);
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+
+  }
+  .menu
+  {
+    background-color: rgb(12, 195, 227);
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+
+  }
+  #footer
+ {
+  background-color: #a8b7df;
+  padding: 2px;
+ }
